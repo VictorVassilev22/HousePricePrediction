@@ -1,4 +1,6 @@
 # HousePricePrediction
-Project for Artificial Antelligence class, focus on advanced regression techniques
+Project for Artificial Antelligence class, focused on advanced regression techniques.
 
-main.py contains the code for training the models
+The evaluation won 452-nd place out of more than 4,000 competitors and over 21,000 total entries.
+
+main.py contains the code for training the models.
